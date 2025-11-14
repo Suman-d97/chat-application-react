@@ -31,7 +31,7 @@ function Chat() {
           } relative z-20`}
         >
           {/* Left Section */}
-          <div className="flex items-center gap-4">
+          {/* <div className="flex items-center gap-4"> */}
             {/* Menu */}
             <button
               className={`p-2 rounded-md ${
